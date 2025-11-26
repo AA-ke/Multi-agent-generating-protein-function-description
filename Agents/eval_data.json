@@ -1,0 +1,52 @@
+{
+  "id": "A0A087X1C5",
+  "sequence": "MGLEALVPLAMIVAIFLLLVDLMHRHQRWAARYPPGPLPLPGLGNLLHVDFQNTPYCFDQLRRRFGDVFSLQLAWTPVVVLNGLAAVREAMVTRGEDTADRPPAPIYQVLGFGPRSQGVILSRYGPAWREQRRFSVSTLRNLGLGKKSLEQWVTEEAACLCAAFADQAGRPFRPNGLLDKAVSNVIASLTCGRRFEYDDPRFLRLLDLAQEGLKEESGFLREVLNAVPVLPHIPALAGKVLRFQKAFLTQLDELLTEHRMTWDPAQPPRDLTEAFLAKKEKAKGSPESSFNDENLRIVVGNLFLAGMVTTSTTLAWGLLLMILHLDVQRGRRVSPGCPIVGTHVCPVRVQQEIDDVIGQVRRPEMGDQAHMPCTTAVIHEVQHFGDIVPLGVTHMTSRDIEVQGFRIPKGTTLITNLSSVLKDEAVWKKPFRFHPEHFLDAQGHFVKPEAFLPFSAGRRACLGEPLARMELFLFFTSLLQHFSFSVAAGQPRPSHSRVVSFLVTPSPYELCAVPR",
+  "document": "May be responsible for the metabolism of many drugs and environmental chemicals that it oxidizes. It may be involved in the metabolism of codeine to morphine (PubMed:15051713). However, another study could not confirm it (PubMed:18838503)",
+  "metadata": {
+    "gene": "CYP2D7",
+    "species": "Homo sapiens",
+    "go_terms": [
+      "C:cytoplasm",
+      "C:intracellular membrane-bounded organelle",
+      "C:membrane",
+      "C:mitochondrion",
+      "F:aromatase activity",
+      "F:heme binding",
+      "F:iron ion binding",
+      "F:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",
+      "P:arachidonate metabolic process",
+      "P:xenobiotic catabolic process",
+      "P:xenobiotic metabolic process"
+    ],
+    "go_descriptions": [
+      "cytoplasm",
+      "intracellular membrane-bounded organelle",
+      "membrane",
+      "mitochondrion",
+      "aromatase activity",
+      "heme binding",
+      "iron ion binding",
+      "oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",
+      "arachidonate metabolic process",
+      "xenobiotic catabolic process",
+      "xenobiotic metabolic process"
+    ],
+    "pfam": [
+      "PF00067"
+    ],
+    "functional_keywords": [
+      "Cytoplasm",
+      "Glycoprotein",
+      "Heme",
+      "Iron",
+      "Membrane",
+      "Metal-binding",
+      "Mitochondrion",
+      "Monooxygenase",
+      "Oxidoreductase",
+      "Reference proteome",
+      "Transmembrane",
+      "Transmembrane helix"
+    ]
+  }
+}

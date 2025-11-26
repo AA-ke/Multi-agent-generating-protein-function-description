@@ -1,0 +1,37 @@
+{
+  "evaluation_metrics": {
+    "function_agent": {
+      "jaccard": 0.25824175824175827,
+      "bleu": 0.14932541360513718,
+      "bm25": 0.6951338497997418,
+      "bertscore_f1": 0.8271018266677856,
+      "average": 0.9373415046593263
+    },
+    "sequence_agent": {
+      "jaccard": 0.17438692098092642,
+      "bleu": 0.09708526562224853,
+      "bm25": 0.5914546305423295,
+      "bertscore_f1": 0.8305723071098328,
+      "average": 0.8435141111241015
+    },
+    "structure_agent": {
+      "jaccard": 0.13777777777777778,
+      "bleu": 0.07890331444151596,
+      "bm25": 0.6068538304604322,
+      "bertscore_f1": 0.8064125180244446,
+      "average": 0.8132614798865572
+    },
+    "comprehensive_analysis": {
+      "jaccard": 0.21649484536082475,
+      "bleu": 0.12732950088939876,
+      "bm25": 0.6703067434140955,
+      "bertscore_f1": 0.8320295810699463,
+      "average": 0.9048701845076954
+    }
+  },
+  "summary": {
+    "best_agent": "function_agent",
+    "worst_agent": "structure_agent",
+    "overall_average": 0.87474682004442
+  }
+}
